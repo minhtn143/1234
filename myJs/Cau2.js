@@ -7,5 +7,6 @@ function tryRemoveFromArray(array, numberInt) {
     }
     console.log(array);
 }
-let testArray = [1,4,6,7,3,7,39];
-tryRemoveFromArray(testArray,7);
+
+let testArray = [1, 4, 6, 7, 3, 7, 39];
+tryRemoveFromArray(testArray, 7);
